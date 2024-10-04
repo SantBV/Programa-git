@@ -1,0 +1,74 @@
+body{
+    background-color: bisque;
+
+    margin: 5%;
+    display: flex;
+}
+#Nombre{
+    margin: 4%;
+}
+#DatP{
+    margin: 4%;
+}
+#tex1{
+    margin: 4%;
+}
+#Contacto{
+    margin: 4%;
+}
+#Gmail{
+    margin: 4%;
+}
+#Tel{
+    margin: 4%;
+}
+
+#h_izq{
+    text-align: center;
+    
+}
+
+#curriculum1{
+    border-radius: 50%;
+    margin-top: 5%;
+    width: 150px;
+    height: 150px;
+}
+
+#ladoderecho{
+    width: 70%;
+    text-align: justify;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+
+#ladoizquierdo{
+    border-top-left-radius:15px;
+    border-bottom-left-radius:15px;
+}
+
+
+#tperfil{
+    margin-left: 4%;
+    
+}
+
+#pperfil{
+    margin: 4%;
+    font-size: 1.3em;
+}
+
+#pperfil2{
+    margin: 4%;
+    font-size: 1.3em;
+}
+
+#Tacademic{ 
+    margin: 3%;
+}
+
+#Pprofesional{
+    margin: 4%;
+    font-size: 1.3em;
+}
